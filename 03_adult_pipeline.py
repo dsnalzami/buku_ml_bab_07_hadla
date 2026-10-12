@@ -1,5 +1,8 @@
 """Decision Tree dan Random Forest pada dataset adult (UCI) tanpa kebocoran data.
 
+__author__ = "Dr. Eng. Farrikh Alzami, M.Kom"
+__email__ =  "alzami@dsn.dinus.ac.id"
+
 Alur.
   1. Muat data, buang kolom dan baris yang tidak dipakai, bagi data latih dan uji.
   2. Semua preprocessing (imputasi, one-hot, scaling) berada di dalam Pipeline,
