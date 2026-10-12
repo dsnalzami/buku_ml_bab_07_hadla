@@ -120,7 +120,7 @@ Dataset adult berasal dari basis data sensus penduduk Amerika Serikat tahun 1994
 
 Dataset. Becker, Barry, dan Ronny Kohavi. 1996. *Adult*. UCI Machine Learning Repository. https://doi.org/10.24432/C5XW20. Dataset berlisensi Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-Bab. [INSERT: sitasi buku dan penerbit setelah terbit]
+Bab. [sitasi buku dan penerbit setelah terbit]
 
-Lisensi kode. [INSERT: lisensi kode, misalnya MIT]
+Lisensi kode. MIT
 
