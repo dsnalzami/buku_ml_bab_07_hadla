@@ -1,5 +1,8 @@
 """Gambar berbasis kode dan eksperimen variansi untuk Bab 7.
 
+__author__ = "Dr. Eng. Farrikh Alzami, M.Kom"
+__email__ =  "alzami@dsn.dinus.ac.id"
+
 Keluaran.
   Gambar 7.3  Kurva entropy, Gini, dan misclassification error (dua kelas).
   Gambar 7.8  Batas keputusan pohon tunggal, bagging, dan Random Forest.
