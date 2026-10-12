@@ -1,0 +1,16 @@
+,tipe,nilai_unik,nilai_hilang
+age,numerik,73,0
+workclass,kategorikal,8,1836
+fnlwgt,dibuang,21648,0
+education,dibuang,16,0
+education_num,numerik,16,0
+marital_status,kategorikal,7,0
+occupation,kategorikal,14,1843
+relationship,kategorikal,6,0
+race,kategorikal,5,0
+sex,kategorikal,2,0
+capital_gain,numerik,119,0
+capital_loss,numerik,92,0
+hours_per_week,numerik,94,0
+native_country,kategorikal,41,583
+income,target,2,0

@@ -1,0 +1,14 @@
+{
+  "pre_pruning_params": {
+    "model__criterion": "entropy",
+    "model__max_depth": null,
+    "model__min_samples_leaf": 100
+  },
+  "best_ccp_alpha": 0.00031622776601683794,
+  "rf_params": {
+    "min_samples_leaf": 10,
+    "max_features": 0.3,
+    "max_depth": 15
+  },
+  "logistic_C": 100
+}
