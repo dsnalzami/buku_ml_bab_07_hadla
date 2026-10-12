@@ -1,5 +1,8 @@
 """Verifikasi perhitungan tangan Bab 7 (Decision Tree dan Random Forest).
 
+__author__ = "Dr. Eng. Farrikh Alzami, M.Kom"
+__email__ =  "alzami@dsn.dinus.ac.id"
+
 Skrip ini mencetak semua angka yang dipakai pada contoh step-by-step:
   1. Play Tennis. Entropy, information gain, gain ratio, Gini, pohon ID3.
   2. Pencarian threshold fitur numerik (data kecil, ilustratif).
